@@ -7,8 +7,6 @@
 
 - 👨‍💻 Most of my projects can be shown on request.
 
-- 📝 I am planning to post articles on [https://www.buymeacoffee.com/utmostcreator](https://www.buymeacoffee.com/utmostcreator)
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1SnAaGb6fYwb1yCn8l3egxUVGREIxV65e/view?usp=sharing](https://drive.google.com/file/d/1SnAaGb6fYwb1yCn8l3egxUVGREIxV65e/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
