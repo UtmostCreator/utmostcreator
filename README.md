@@ -15,7 +15,7 @@
 <td width="50%">
 <h4>📜 Professional Certifications</h4>
 <img src="https://img.shields.io/badge/QATestLab-Certified_Test_Engineer-green">
-<img src="https://img.shields.io/badge/British_Council-C1_English-important">
+<img src="https://img.shields.io/badge/British_Council-C2_English-important">
 <img src="https://img.shields.io/badge/Polyglot-B2_English-informational">
 </td>
 </tr>
