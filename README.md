@@ -1,7 +1,16 @@
 <h1 align="center">👋 Welcome to UtmostCreator's Profile!</h1>
 <h3 align="center">🚀 Senior Fullstack Developer | 📍 Edinburgh, UK 🇬🇧🏴󠁧󠁢󠁳󠁣󠁴󠁿</h3>
 
-> With seven years of experience as a full-stack web developer, I have expertise in front-end and back-end development using PHP, JS, and their respective frameworks. Additionally, I have substantial experience in building relational database systems with MySQL, and I find joy in working with CLI, Git, and Linux systems. I am a fast learner and can adapt quickly to new frameworks or technologies. I have experience working with Agile frameworks such as SCRUM and Kanban, it makes me flexible at any project needs. I have also worked with the Waterfall methodology. I am comfortable using design patterns and can provide constructive criticism to improve code quality. I have worked with OpenSource projects and their contributors, gaining valuable experience. 100% Job success on upwork, I have always been top rated, until I found full-time job. I am proficient in bug reporting on GitHub and Mantis. Along with my advanced web development skills, I have diplomas in "Translation, English - First," which could be useful for internationalization (i18n) projects. I have an advanced understanding of class diagrams and sequence diagrams.
+### About Me & My Expertise
+
+> With seven years of comprehensive experience as a full-stack web developer, I have expertise in front-end and back-end development using PHP, JS, and their respective frameworks. I possess a strong track record in modernizing and migrating legacy systems to current technologies, ensuring seamless transitions and enhanced maintainability. I can also shine with substantial experience in building relational database systems with MySQL, and I find joy in working with CLI, Git, and Linux systems. I have consistently delivered results within Agile frameworks such as SCRUM and Kanban, demonstrating adaptability to diverse project methodologies, including prior experience with Waterfall. I apply design patterns effectively to enhance code quality and maintainability and actively contribute constructive feedback within development teams to foster collaborative growth. My involvement with open-source projects and their communities has further enriched my development skills and professional network. Achieving 100% job success and holding a top-rated status on Upwork underscores my commitment to delivering high-quality solutions and maintaining client satisfaction. Moreover, I am proficient in bug tracking and reporting tools like GitHub and Mantis. Along with my advanced web development skills, I have diplomas in "Translation, English - First," which could be useful for internationalization (i18n) projects. I have an advanced understanding of sequence diagrams, class diagrams, design patterns, and many other software engineering principles you can explore by looking through this page/CV.
+
+### 🏆 Key Achievements
+
+- **+53% Revenue Growth**: Engineered data sync systems boosting client income from £650k → £1M+ 
+- **3x Efficiency Gains**: Modernized legacy systems through strategic framework, migrations, emails system, cron jobs and more
+- **99% Desync Reduction**: Architected network solutions for real-time applications
+- **500k+ Emails Managed**: Built resource-efficient mass communication systems
 
 <div align="right">
   <a href="https://drive.google.com/file/d/182c4HgrjBbksa53GWmDswzOc2Zv9KcZX">
@@ -11,15 +20,6 @@
     <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
-
----
-
-### 🏆 Key Achievements
-
-- **+53% Revenue Growth**: Engineered data sync systems boosting client income from £650k → £1M+ 
-- **3x Efficiency Gains**: Modernized legacy systems through strategic framework, migrations, emails system, cron jobs and more
-- **99% Desync Reduction**: Architected network solutions for real-time applications
-- **500k+ Emails Managed**: Built resource-efficient mass communication systems
 
 ---
 
