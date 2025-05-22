@@ -132,25 +132,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<table>
-<tr>
-<td>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=utmostcreator&show_icons=true&theme=radical" />
-</td>
-<td>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utmostcreator&theme=radical" />
-</td>
-</tr>
-</table>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utmostcreator&layout=compact&theme=radical" />
-</p>
-
----
-
 ### 📚 Technical Expertise
 
 <table>
@@ -179,3 +160,23 @@
 </td>
 </tr>
 </table>
+
+---
+
+### 📊 GitHub Analytics
+
+<table>
+<tr>
+<td>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=utmostcreator&show_icons=true&theme=radical" />
+</td>
+<td>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utmostcreator&theme=radical" />
+</td>
+</tr>
+</table>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utmostcreator&layout=compact&theme=radical" />
+</p>
+
