@@ -104,7 +104,7 @@
 |--------|-----|
 | **7+ Years Experience** | PHP, JavaScript, HTML5, CSS, MySQL, Git, Apache, jQuery, OOP|
 | **3-5 Years Experience** | Vue.js, REST APIs, Linux, Bootstrap, C++, Design Patterns |
-| **Emerging Skills** | Docker, Symfony, Laravel, Node.js, Python, Cypress|
+| **Principles** | SOLID, DRY, KISS, YAGNI, Loose coupling |
 | **Testing** | <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress"> <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium"> <img src="https://img.shields.io/badge/JMeter-D22128?logo=apachejmeter"> |
 | **Security**| <img src="https://img.shields.io/badge/XSS_Protection-4A90E2"> <img src="https://img.shields.io/badge/SQL_Injection_Prevention-4479A1"> <img src="https://img.shields.io/badge/CSRF_Protection-000000">|
 | **Languages** | <img src="https://img.shields.io/badge/English-C2-brightgreen"> <img src="https://img.shields.io/badge/German_A1-0063B1"> |
@@ -129,9 +129,8 @@
 
 **💡 Specialties**
 
-* PHP & JavaScript Frameworks (Laravel, Symfony, Vue, React)
+* PHP & JavaScript Frameworks (Laravel, Symfony, Codeigniter, Vue, Angular, Aurelia, Alpine.js)
 * Real-time Systems (WebSockets, MQTT)
-* 3D Web Development (Three.js, Babylon.js)
 * CI/CD Workflows & DevOps Integration
 
 ---
