@@ -194,9 +194,12 @@
         <img src="https://www.svgrepo.com/show/7344/sql-file-format-symbol.svg" alt="sql" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
         <img src="https://www.svgrepo.com/show/354037/mariadb-icon.svg" alt="mariadb" width="45" height="45"/>
+        <img src="https://raw.githubusercontent.com/orientechnologies/orientdb/dd6742f9142161dcf1081ada942fc9a16f844e98/OrientDB_logo.svg" alt="mariadb" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>
+        <img src="https://www.svgrepo.com/show/303352/html-5.svg" alt="Static Pages" width="45" height="45"/>
+        <img src="https://www.svgrepo.com/show/354348/mobile-application.svg" alt="PWA" width="45" height="45"/>
       </td>
       <td>
         <img src="https://www.svgrepo.com/show/376332/laravel.svg" alt="laravel" width="45" height="45"/>
@@ -205,9 +208,14 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vue" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="45" height="45"/>
         <img src="https://www.svgrepo.com/show/305760/aurelia.svg" alt="Aurelia.js" width="45" height="45"/>
+        <img src="https://www.svgrepo.com/show/518872/astro.svg" alt="Astro" width="45" height="45"/>
+        <img src="https://raw.githubusercontent.com/alpinejs/alpine/main/logo.svg" alt="Alpine.js" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
+        <img src="https://www.svgrepo.com/show/354348/mobile-application.svg" alt="PWA" width="45" height="45"/>
+        <img src="https://www.svgrepo.com/show/353787/browser.svg" alt="SPA" width="45" height="45"/>
+        <img src="https://raw.githubusercontent.com/jekyll/brand/refs/heads/master/jekyll-logo.svg" alt="Jekyll" width="45" height="45"/>
       </td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
