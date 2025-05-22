@@ -163,7 +163,7 @@
 <img src="https://img.shields.io/badge/PHP-7_yrs-777BB4?logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-7_yrs-F7DF1E?logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/MySQL-7_yrs-4479A1?logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Symfony-1_yr-000000?logo=symfony">
+<img src="https://img.shields.io/badge/Symfony-3_yr-000000?logo=symfony">
 <img src="https://img.shields.io/badge/Vue.js-3_yrs-4FC08D?logo=vuedotjs">
 </td>
 <td width="33%">
