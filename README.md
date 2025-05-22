@@ -1,13 +1,22 @@
 <h1 align="center">👋 Welcome to UtmostCreator's Profile!</h1>
 <h3 align="center">🚀 Senior Fullstack Developer | 📍 Edinburgh, UK 🇬🇧🏴󠁧󠁢󠁳󠁣󠁴󠁿</h3>
 
-[![Resume](https://img.shields.io/badge/Download_CV-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/182c4HgrjBbksa53GWmDswzOc2Zv9KcZX)
-[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utmost-creator/)
-
-
----
-
 > With seven years of experience as a full-stack web developer, I have expertise in front-end and back-end development using PHP, JS, and their respective frameworks. Additionally, I have substantial experience in building relational database systems with MySQL, and I find joy in working with CLI, Git, and Linux systems. I am a fast learner and can adapt quickly to new frameworks or technologies. I have experience working with Agile frameworks such as SCRUM and Kanban, it makes me flexible at any project needs. I have also worked with the Waterfall methodology. I am comfortable using design patterns and can provide constructive criticism to improve code quality. I have worked with OpenSource projects and their contributors, gaining valuable experience. 100% Job success on upwork, I have always been top rated, until I found full-time job. I am proficient in bug reporting on GitHub and Mantis. Along with my advanced web development skills, I have diplomas in "Translation, English - First," which could be useful for internationalization (i18n) projects. I have an advanced understanding of class diagrams and sequence diagrams.
+
+<table>
+  <tr>
+    <td></td>
+    <td align="right">
+      <a href="https://drive.google.com/file/d/182c4HgrjBbksa53GWmDswzOc2Zv9KcZX">
+        <img src="https://img.shields.io/badge/Download_CV-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+      </a>
+      <a href="https://www.linkedin.com/in/utmost-creator/">
+        <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
