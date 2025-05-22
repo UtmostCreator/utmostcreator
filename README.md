@@ -198,8 +198,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>
-        <img src="https://www.svgrepo.com/show/303352/html-5.svg" alt="Static Pages" width="45" height="45"/>
-        <img src="https://www.svgrepo.com/show/354348/mobile-application.svg" alt="PWA" width="45" height="45"/>
+        <img src="https://www.svgrepo.com/show/354234/pwa.svg" alt="PWA" width="45" height="45"/>
       </td>
       <td>
         <img src="https://www.svgrepo.com/show/376332/laravel.svg" alt="laravel" width="45" height="45"/>
@@ -208,8 +207,8 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vue" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="45" height="45"/>
         <img src="https://www.svgrepo.com/show/305760/aurelia.svg" alt="Aurelia.js" width="45" height="45"/>
-        <img src="https://www.svgrepo.com/show/518872/astro.svg" alt="Astro" width="45" height="45"/>
-        <img src="https://raw.githubusercontent.com/alpinejs/alpine/main/logo.svg" alt="Alpine.js" width="45" height="45"/>
+        <img src="https://www.svgrepo.com/show/373446/astro.svg" alt="Astro" width="45" height="45"/>
+        <img src="https://www.svgrepo.com/show/329902/alpinedotjs.svg" alt="Alpine.js" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
@@ -235,7 +234,6 @@
         <img src="https://commons.wikimedia.org/wiki/Special:FilePath/PuTTY_Icon.svg" alt="PuTTY" width="45" height="45"/>
         <img src="https://commons.wikimedia.org/wiki/Special:FilePath/KeePassXC.svg" alt="KeePassXC" width="45" height="45"/>
         <img src="https://www.svgrepo.com/show/306995/xampp.svg" alt="XAMPP" width="45" height="45"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Mqtt-hor.svg" alt="MQTT" width="45" height="45"/>
         <img src="https://www.svgrepo.com/show/342225/socket-io.svg" alt="Socket.IO" width="45" height="45"/>
         <img src="https://www.svgrepo.com/show/353732/feathersjs.svg" alt="FeathersJS" width="45" height="45"/>
         <img src="https://www.svgrepo.com/show/438984/ssh.svg" alt="SSH" width="45" height="45"/>
@@ -246,6 +244,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="selenium" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="webpack" width="45" height="45"/>
+        <img src="https://www.svgrepo.com/show/329945/apachejmeter.svg" alt="Apache JMeter" width="45" height="45"/>
       </td>
     </tr>
   </tbody>
