@@ -198,7 +198,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>
-        <img src="https://www.svgrepo.com/show/354234/pwa.svg" alt="PWA" width="45" height="45"/>
       </td>
       <td>
         <img src="https://www.svgrepo.com/show/376332/laravel.svg" alt="laravel" width="45" height="45"/>
@@ -212,7 +211,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
-        <img src="https://www.svgrepo.com/show/354348/mobile-application.svg" alt="PWA" width="45" height="45"/>
+        <img src="https://www.svgrepo.com/show/354234/pwa.svg" alt="PWA" width="45" height="45"/>
         <img src="https://www.svgrepo.com/show/353787/browser.svg" alt="SPA" width="45" height="45"/>
         <img src="https://raw.githubusercontent.com/jekyll/brand/refs/heads/master/jekyll-logo.svg" alt="Jekyll" width="45" height="45"/>
       </td>
