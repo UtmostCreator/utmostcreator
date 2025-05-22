@@ -165,7 +165,7 @@
 <td width="33%">
 <h4>🎯 Specializations</h4>
 <img src="https://img.shields.io/badge/REST_API-3_yrs-FF6C37?logo=postman">
-<img src="https://img.shields.io/badge/OOP-7_yrs-3776AB?logo=python">
+<img src="https://img.shields.io/badge/OOP/OOD-7_yrs-0052CC?logo=uml&logoColor=white">
 <img src="https://img.shields.io/badge/DB_Modeling-7_yrs-4479A1?logo=mysql">
 <img src="https://img.shields.io/badge/Security-3_yrs-4A90E2?logo=securityscorecard">
 </td>
