@@ -1,10 +1,6 @@
 <h1 align="center">👋 Welcome to UtmostCreator's Profile!</h1>
 <h3 align="center">🚀 Senior Fullstack Developer | 📍 Edinburgh, UK 🇬🇧🏴󠁧󠁢󠁳󠁣󠁴󠁿</h3>
 
----
-
-### 📜 Resume & Contact
-
 [![Resume](https://img.shields.io/badge/Download_CV-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/182c4HgrjBbksa53GWmDswzOc2Zv9KcZX)
 [![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utmost-creator/)
 
@@ -38,19 +34,6 @@
 
 ---
 
-### 📊 Full Skills Matrix
-
-| Category| Technologies & Tools |
-|--------|-----|
-| **7+ Years Experience** | PHP, JavaScript, HTML5, CSS, MySQL, Git, Apache, jQuery, OOP|
-| **3-5 Years Experience** | Vue.js, REST APIs, Linux, Bootstrap, C++, Design Patterns |
-| **Emerging Skills** | Docker, Symfony, Laravel, Node.js, Python, Cypress|
-| **Testing** | <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress"> <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium"> <img src="https://img.shields.io/badge/JMeter-D22128?logo=apachejmeter"> |
-| **Security**| <img src="https://img.shields.io/badge/XSS_Protection-4A90E2"> <img src="https://img.shields.io/badge/SQL_Injection_Prevention-4479A1"> <img src="https://img.shields.io/badge/CSRF_Protection-000000">|
-| **Languages** | <img src="https://img.shields.io/badge/English-C2-brightgreen"> <img src="https://img.shields.io/badge/German_A1-0063B1"> |
-
----
-
 ### 🏆 Key Achievements
 
 - **+53% Revenue Growth**: Engineered data sync systems boosting client income from £650k → £1M+ 
@@ -70,6 +53,7 @@
 - Built bi-directional Moodle↔Netsuite sync engine with custom field mapping
 - Created invoice management system handling multiple product types/subscriptions
 - Developed REST APIs processing 2M+ monthly transactions
+
 **Tech:**
 ![Totara](https://img.shields.io/badge/Totara-1F78B4?style=flat) ![Moodle](https://img.shields.io/badge/Moodle-F98012?style=flat&logo=moodle) ![Netsuite](https://img.shields.io/badge/Netsuite-1F4788?style=flat) ![SuiteQL](https://img.shields.io/badge/SuiteQL-326690?style=flat) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery) ![Data Sync Engine](https://img.shields.io/badge/Data_Sync-34A853?style=flat) ![System Integration](https://img.shields.io/badge/System_Integration-4285F4?style=flat) 
 
@@ -111,6 +95,20 @@
 
 **Tech:** 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Unreal Engine 4](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat&logo=unrealengine&logoColor=white) ![Blueprints](https://img.shields.io/badge/Blueprints-0E1128?style=flat&logo=unrealengine&logoColor=white) ![Quixel Megascans](https://img.shields.io/badge/Quixel_Megascans-1E1E1E?style=flat&logo=quixel) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white) ![3D Modeling](https://img.shields.io/badge/3D_Modeling-FF6F61?style=flat) ![Network Replication](https://img.shields.io/badge/Network_Replication-4285F4?style=flat) ![RPCs](https://img.shields.io/badge/RPCs-34A853?style=flat) ![UI/UX Design](https://img.shields.io/badge/UI%2FUX-FF4088?style=flat) 
+
+---
+
+### 📊 Full Skills Matrix
+
+| Category| Technologies & Tools |
+|--------|-----|
+| **7+ Years Experience** | PHP, JavaScript, HTML5, CSS, MySQL, Git, Apache, jQuery, OOP|
+| **3-5 Years Experience** | Vue.js, REST APIs, Linux, Bootstrap, C++, Design Patterns |
+| **Emerging Skills** | Docker, Symfony, Laravel, Node.js, Python, Cypress|
+| **Testing** | <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress"> <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium"> <img src="https://img.shields.io/badge/JMeter-D22128?logo=apachejmeter"> |
+| **Security**| <img src="https://img.shields.io/badge/XSS_Protection-4A90E2"> <img src="https://img.shields.io/badge/SQL_Injection_Prevention-4479A1"> <img src="https://img.shields.io/badge/CSRF_Protection-000000">|
+| **Languages** | <img src="https://img.shields.io/badge/English-C2-brightgreen"> <img src="https://img.shields.io/badge/German_A1-0063B1"> |
+
 ---
 
 ### 🛠️ Core Expertise
