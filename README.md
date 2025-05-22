@@ -27,10 +27,7 @@
 
 ### 🔒 Security Expertise
 
-<img src="https://img.shields.io/badge/OWASP_Top_10-Implemented-4A90E2"> 
-<img src="https://img.shields.io/badge/Secure_API_Design-3_yrs-FF6C37"> 
-<img src="https://img.shields.io/badge/CSRF/XSS_Protection-7_yrs-green"> 
-<img src="https://img.shields.io/badge/SQL_Injection_Prevention-7_yrs-4479A1">
+<img src="https://img.shields.io/badge/OWASP_Top_10-Implemented-4A90E2"> <img src="https://img.shields.io/badge/Secure_API_Design-3_yrs-FF6C37"> <img src="https://img.shields.io/badge/CSRF/XSS_Protection-7_yrs-green"> <img src="https://img.shields.io/badge/SQL_Injection_Prevention-7_yrs-4479A1">
 
 ---
 
