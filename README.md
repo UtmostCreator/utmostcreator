@@ -13,6 +13,7 @@
 <td width="50%">
 <h4>🎓 Formal Education</h4>
 <img src="https://img.shields.io/badge/MSc_Software_Engineering-Distinction-8A2BE2">
+<img src="https://img.shields.io/badge/BA_Germanic_Languages-English_Translation-4682B4">
 <img src="https://img.shields.io/badge/CISCO_IT_Essentials-Passed-1BA0D7">
 </td>
 <td width="50%">
