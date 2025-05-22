@@ -29,8 +29,6 @@
 </tr>
 </table>
 
----
-
 ### 🔒 Security Expertise
 
 <img src="https://img.shields.io/badge/OWASP_Top_10-Implemented-4A90E2"> <img src="https://img.shields.io/badge/Secure_API_Design-3_yrs-FF6C37"> <img src="https://img.shields.io/badge/CSRF/XSS_Protection-7_yrs-green"> <img src="https://img.shields.io/badge/SQL_Injection_Prevention-7_yrs-4479A1">
@@ -40,7 +38,7 @@
 ### 🏆 Key Achievements
 
 - **+53% Revenue Growth**: Engineered data sync systems boosting client income from £650k → £1M+ 
-- **3x Efficiency Gains**: Modernized legacy systems through strategic framework migrations
+- **3x Efficiency Gains**: Modernized legacy systems through strategic framework, migrations, emails system, cron jobs and more
 - **99% Desync Reduction**: Architected network solutions for real-time applications
 - **500k+ Emails Managed**: Built resource-efficient mass communication systems
 
