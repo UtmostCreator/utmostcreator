@@ -200,6 +200,28 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="apache" width="45" height="45"/>
+        <img src="https://www.svgrepo.com/show/354184/phpstorm.svg" alt="PhpStorm" width="45" height="45"/>
+        <img src="https://www.svgrepo.com/show/354185/webstorm.svg" alt="WebStorm" width="45" height="45"/>
+        <img src="https://commons.wikimedia.org/wiki/Special:FilePath/PuTTY_Icon.svg" alt="PuTTY" width="45" height="45"/>
+        <img src="https://brandfetch.com/winscp.net/logo.svg" alt="WinSCP" width="45" height="45"/>
+        <img src="https://commons.wikimedia.org/wiki/Special:FilePath/KeePassXC.svg" alt="KeePassXC" width="45" height="45"/>
+        <img src="https://www.svgrepo.com/show/306995/xampp.svg" alt="XAMPP" width="45" height="45"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Mqtt-hor.svg" alt="MQTT" width="45" height="45"/>
+        <img src="https://www.svgrepo.com/show/342225/socket-io.svg" alt="Socket.IO" width="45" height="45"/>
+        <img src="https://www.svgrepo.com/show/353732/feathersjs.svg" alt="FeathersJS" width="45" height="45"/>
+        <img src="https://www.svgrepo.com/show/438984/ssh.svg" alt="SSH" width="45" height="45"/>
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/ftp-icon.svg" alt="FTP" width="45" height="45"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Notepad%2B%2B_Logo.svg" alt="Notepad++" width="45" height="45"/>
+        <img src="https://worldvectorlogo.com/logos/openserver.svg" alt="OpenServer" width="45" height="45"/>
+        <img src="https://forum.obsidian.md/uploads/default/original/2X/9/9c7c8f3e0e1c8c9c9e9e9e9e9e9e9e9e9e9e9e9e.svg" alt="Obsidian" width="45" height="45"/>
+        <img src="https://www.svgrepo.com/show/354463/trello.svg" alt="Trello" width="45" height="45"/>
+        <img src="https://www.svgrepo.com/show/303234/slack-logo.svg" alt="Slack" width="45" height="45"/>
+        <img src="https://www.svgrepo.com/show/331370/clickup.svg" alt="ClickUp" width="45" height="45"/>
+        <img src="https://www.svgrepo.com/show/331370/asana.svg" alt="Asana" width="45" height="45"/>
+        <img src="https://www.svgrepo.com/show/303266/windows-7-logo.svg" alt="Windows 7" width="45" height="45"/>
+        <img src="https://www.svgrepo.com/show/303266/windows-10-logo.svg" alt="Windows 10" width="45" height="45"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" alt="Linux Mint" width="45" height="45"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" alt="Ubuntu" width="45" height="45"/>
       </td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="postman" width="45" height="45"/>
