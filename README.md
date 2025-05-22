@@ -1,121 +1,161 @@
-<h1 align="center">You Are Very Welcome to UtmostCreator's Profile</h1>
-<h3 align="center">I am a striving freelancer, fullstack developer from Ukraine 🇺🇦 (🌐located in the UK, Edinburgh 🇬🇧🏴󠁧󠁢󠁳󠁣󠁴󠁿)</h3>
+<h1 align="center">👋 Welcome to UtmostCreator's Profile!</h1>
+<h3 align="center">🚀 Senior Fullstack Developer | 📍 Edinburgh, UK 🇬🇧🏴󠁧󠁢󠁳󠁣󠁴󠁿</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utmostcreator&label=Profile%20views&color=0e75b6&style=flat" alt="utmostcreator" /> </p>
+---
 
-- 🔭 I’m currently working on **InvoiceGenerationSystem** and **PHP Framework**
-
-- 👨‍💻 Most of my projects can be shown on request.
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SnAaGb6fYwb1yCn8l3egxUVGREIxV65e/view?usp=sharing](https://drive.google.com/file/d/1SnAaGb6fYwb1yCn8l3egxUVGREIxV65e/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://my.indeed.com/p/romanz-n9rt606" target="blank"><img align="center" src="https://d3fw5vlhllyvee.cloudfront.net/dist/header/ukraine_support.7ad2b5d444bc427dbc5d.png" alt="https://my.indeed.com/p/romanz-n9rt606" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/utmost-creator/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/utmost-creator/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/6901693/utmost-creator" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/6901693/utmost-creator" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<h4>Frontend:</h4>
+### 📜 Certifications & Education
 
 <table>
-  <tr>
-    <th>Primary</th>
-    <th>Secondary</th>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-    </td>
-    <td>
-    <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-<a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<tr>
+<td width="50%">
+<h4>🎓 Formal Education</h4>
+<img src="https://img.shields.io/badge/MSc_Software_Engineering-Distinction-8A2BE2">
+<img src="https://img.shields.io/badge/CISCO_IT_Essentials-Passed-1BA0D7">
 </td>
-  </tr>
+<td width="50%">
+<h4>📜 Professional Certifications</h4>
+<img src="https://img.shields.io/badge/QATestLab-Certified_Test_Engineer-green">
+<img src="https://img.shields.io/badge/British_Council-C1_English-important">
+<img src="https://img.shields.io/badge/Polyglot-B2_English-informational">
+</td>
+</tr>
 </table>
 
+---
 
-<h4>Backend:</h4>
+### 🏆 Key Achievements
+- **+53% Revenue Growth**: Engineered data sync systems boosting client income from £650k → £1M+ 
+- **3x Efficiency Gains**: Modernized legacy systems through strategic framework migrations
+- **99% Desync Reduction**: Architected network solutions for real-time applications
+- **500k+ Emails Managed**: Built resource-efficient mass communication systems
+
+---
+
+### 🚀 Featured Projects
+
+#### 💰 Accipio - Enterprise Integration System (Senior Developer)
+**Impact:** Enabled £350k+ annual revenue growth through system synchronization and minor updates
+**Key Achievements:**
+- Built bi-directional Moodle↔Netsuite sync engine with custom field mapping
+- Created invoice management system handling multiple product types/subscriptions
+- Developed REST APIs processing 2M+ monthly transactions
+**Tech:**
+![Totara](https://img.shields.io/badge/Totara-1F78B4?style=flat) ![Moodle](https://img.shields.io/badge/Moodle-F98012?style=flat&logo=moodle) ![Netsuite](https://img.shields.io/badge/Netsuite-1F4788?style=flat) ![SuiteQL](https://img.shields.io/badge/SuiteQL-326690?style=flat) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery) ![Data Sync Engine](https://img.shields.io/badge/Data_Sync-34A853?style=flat) ![System Integration](https://img.shields.io/badge/System_Integration-4285F4?style=flat) 
+
+#### 🚛 Maxtracking - Logistics Modernization (Solo Architect)
+**Impact:** 3x faster development cycles + 71% DB performance boost
+**Key Achievements:**
+- Migrated legacy PHP 5.4→7.4 system while maintaining 100% uptime
+- Created custom Symfony-based framework with CLI cron job runner
+- Redesigned MariaDB schema achieving 1.71x faster queries
+- Built PDF invoice system with Google API postcode integration
+**Tech:**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony) ![Bootstrap 5](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap) ![Custom PHP Framework](https://img.shields.io/badge/Custom_Framework-4F5B93?style=flat) ![REST APIs](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql) ![cPanel](https://img.shields.io/badge/cPanel-FF6C37?style=flat&logo=cpanel) 
+
+#### 🏠 BYND Smart Home - IoT Platform (Lead Frontend Engineer)
+**Impact:** Secured 6-figure funding through technical demonstrations
+**Key Achievements:**
+- Migrated Aurelia→Vue3 SPA with Microsoft FAST UI integration
+- Developed real-time device controls using MQTT/Socket.IO
+- Created Storybook-driven component library reducing UI bugs by 40%
+- Built dynamic floor-plan editor for personalized smart home setups
+**Tech:**
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio) ![Microsoft FAST UI](https://img.shields.io/badge/FAST_UI-005A9E?style=flat&logo=microsoft) ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook) ![FeathersJS](https://img.shields.io/badge/FeathersJS-333333?style=flat) ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black) 
+
+#### 🎮 Unreal Engine 4 Shooter (Technical Lead)
+**Impact:** Created commercial-grade multiplayer experience solo
+**Key Achievements:**
+- Developed replicated health/weapon systems with 90% less desync
+- Built server-authoritative architecture using C++/Blueprints
+- Created dynamic leaderboards and match progression systems
+- Optimized 3D assets pipeline using Quixel Megascans/Blender
+**Tech:** 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Unreal Engine 4](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat&logo=unrealengine&logoColor=white) ![Blueprints](https://img.shields.io/badge/Blueprints-0E1128?style=flat&logo=unrealengine&logoColor=white) ![Quixel Megascans](https://img.shields.io/badge/Quixel_Megascans-1E1E1E?style=flat&logo=quixel) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white) ![3D Modeling](https://img.shields.io/badge/3D_Modeling-FF6F61?style=flat) ![Network Replication](https://img.shields.io/badge/Network_Replication-4285F4?style=flat) ![RPCs](https://img.shields.io/badge/RPCs-34A853?style=flat) ![UI/UX Design](https://img.shields.io/badge/UI%2FUX-FF4088?style=flat) 
+---
+
+### 📜 Resume & Contact
+[![Resume](https://img.shields.io/badge/Download_CV-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1SnAaGb6fYwb1yCn8l3egxUVGREIxV65e/view)
+[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utmost-creator/)
+
+---
+
+### 🛠️ Core Expertise
+**Architecture:** REST APIs • Microservices • MVC • Database Optimization
+**Leadership:** Technical Roadmapping • Legacy Modernization • Independent Development • Team Work 
+**Specialties:** PHP & JS Frameworks • Real-time Systems • 3D Development • CI/CD
+
+---
+
+### 📊 GitHub Analytics
+
 <table>
-  <tr>
-    <th>Primary</th>
-    <th>Secondary</th>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<tr>
+<td>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=utmostcreator&show_icons=true&theme=radical" />
 </td>
-    <td>
-    <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> 
-    <a href="https://twig.symfony.com/" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> 
-<a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> 
-<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
+<td>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utmostcreator&theme=radical" />
 </td>
-  </tr>
+</tr>
 </table>
 
-
-<h3>Tools:</h3>
-<h4>Development Tools</h4>
-<p align="left">
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utmostcreator&layout=compact&theme=radical" />
 </p>
 
-<h4>Testing Tools:</h4>
-<p align="left">
-<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> 
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
-</p>
+---
 
-<h4>3D Tools</h4>
-<p align="left">
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
-</p>
+### 📚 Technical Expertise
 
-<h4>I also know:</h4>
-<p align="left">
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> 
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
-<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://s2.qwant.com/thumbr/0x0/e/1/4b4a3b3976ad775be4aa349a69d74fae6a1983d4ffa925dd406ceb4aac508e/unreal-engine-3-599431.png?u=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-256%2Funreal-engine-3-599431.png&q=0&b=1&p=0&a=0" alt="unreal" width="40" height="40"/> </a>
-</p>
+<table>
+<tr>
+<td width="33%">
+<h4>🔧 Core Technologies</h4>
+<img src="https://img.shields.io/badge/PHP-7_yrs-777BB4?logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-7_yrs-F7DF1E?logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/MySQL-7_yrs-4479A1?logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Symfony-1_yr-000000?logo=symfony">
+<img src="https://img.shields.io/badge/Vue.js-3_yrs-4FC08D?logo=vuedotjs">
+</td>
+<td width="33%">
+<h4>🛠️ Tools & Platforms</h4>
+<img src="https://img.shields.io/badge/Git-7_yrs-F05032?logo=git">
+<img src="https://img.shields.io/badge/Docker-<1_yr-2496ED?logo=docker">
+<img src="https://img.shields.io/badge/PHPStorm-7_yrs-000000?logo=phpstorm">
+<img src="https://img.shields.io/badge/Postman-3_yrs-FF6C37?logo=postman">
+</td>
+<td width="33%">
+<h4>🎯 Specializations</h4>
+<img src="https://img.shields.io/badge/REST_API-3_yrs-FF6C37?logo=postman">
+<img src="https://img.shields.io/badge/OOP-7_yrs-3776AB?logo=python">
+<img src="https://img.shields.io/badge/DB_Modeling-7_yrs-4479A1?logo=mysql">
+<img src="https://img.shields.io/badge/Security-3_yrs-4A90E2?logo=securityscorecard">
+</td>
+</tr>
+</table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utmostcreator&show_icons=true&locale=en&layout=compact" alt="utmostcreator" /></p>
+<details>
+<summary><b>📊 Full Skills Matrix</b></summary>
 
-<br><br><br><br><br><br><br>
+| Category| Technologies & Tools |
+|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **7+ Years Experience** | PHP, JavaScript, HTML5, CSS, MySQL, Git, Apache, jQuery, OOP|
+| **3-5 Years Experience** | Vue.js, REST APIs, Linux, Bootstrap, C++, Design Patterns |
+| **Emerging Skills** | Docker, Symfony, Laravel, Node.js, Python, Cypress|
+| **Testing** | <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress"> <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium"> <img src="https://img.shields.io/badge/JMeter-D22128?logo=apachejmeter"> |
+| **Security**| <img src="https://img.shields.io/badge/XSS_Protection-4A90E2"> <img src="https://img.shields.io/badge/SQL_Injection_Prevention-4479A1"> <img src="https://img.shields.io/badge/CSRF_Protection-000000">|
+| **Languages** | <img src="https://img.shields.io/badge/English-C1-brightgreen"> <img src="https://img.shields.io/badge/German_A1-0063B1"> |
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=utmostcreator&show_icons=true&locale=en" alt="utmostcreator" /></p>
+</details>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utmostcreator&" alt="utmostcreator" /></p>
+---
 
+### 🔒 Security Expertise
+<img src="https://img.shields.io/badge/OWASP_Top_10-Implemented-4A90E2"> 
+<img src="https://img.shields.io/badge/Secure_API_Design-3_yrs-FF6C37"> 
+<img src="https://img.shields.io/badge/CSRF/XSS_Protection-7_yrs-green"> 
+<img src="https://img.shields.io/badge/SQL_Injection_Prevention-7_yrs-4479A1">
 
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utmostcreator" alt="utmostcreator" /></a> </p>
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/utmostcreator"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/utmostcreator" /></a></p><br><br><br>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=utmostcreator&show_icons=true&theme=radical)](https://github.com/utmostcreator)
