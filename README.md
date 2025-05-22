@@ -204,6 +204,7 @@
         <img src="https://www.svgrepo.com/show/303425/codeigniter-logo.svg" alt="codeigniter" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vue" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="45" height="45"/>
+        <img src="https://www.svgrepo.com/show/305760/aurelia.svg" alt="Aurelia.js" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
