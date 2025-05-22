@@ -168,7 +168,8 @@
     <tr>
       <th align="left">🧑‍💻 Languages</th>
       <th align="left">🧩 Frameworks & Libraries</th>
-      <th align="left">🛠️ Dev Tools & Environment</th>
+      <th align="left">🛠️ Dev Tools</th>
+      <th align="left">💻 Environments & Utilities</th>
       <th align="left">🔍 Testing, API & Utilities</th>
     </tr>
   </thead>
@@ -197,13 +198,18 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="apache" width="45" height="45"/>
         <img src="https://www.svgrepo.com/show/354184/phpstorm.svg" alt="PhpStorm" width="45" height="45"/>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/512px-WebStorm_Icon.svg.png" alt="WebStorm" width="45" height="45"/>
-        <img src="https://commons.wikimedia.org/wiki/Special:FilePath/PuTTY_Icon.svg" alt="PuTTY" width="45" height="45"/>
+        <img src="https://www.svgrepo.com/show/479656/notepad-document-3.svg" alt="Notepad++" width="45" height="45"/>
+        <img src="https://www.svgrepo.com/show/504676/obsidian.svg" alt="Obsidian" width="45" height="45"/>
+        <img src="https://www.svgrepo.com/show/475688/trello-color.svg" alt="Trello" width="45" height="45"/>
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="apache" width="45" height="45"/>
         <img src="https://winscp-static-746341.c.cdn77.org/assets/images/logos/logo.png" alt="WinSCP" width="45" height="45"/>
+        <img src="https://commons.wikimedia.org/wiki/Special:FilePath/PuTTY_Icon.svg" alt="PuTTY" width="45" height="45"/>
         <img src="https://commons.wikimedia.org/wiki/Special:FilePath/KeePassXC.svg" alt="KeePassXC" width="45" height="45"/>
         <img src="https://www.svgrepo.com/show/306995/xampp.svg" alt="XAMPP" width="45" height="45"/>
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Mqtt-hor.svg" alt="MQTT" width="45" height="45"/>
@@ -211,15 +217,6 @@
         <img src="https://www.svgrepo.com/show/353732/feathersjs.svg" alt="FeathersJS" width="45" height="45"/>
         <img src="https://www.svgrepo.com/show/438984/ssh.svg" alt="SSH" width="45" height="45"/>
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Mqtt-hor.svg" alt="FTP" width="45" height="45"/>
-        <img src="https://www.svgrepo.com/show/479656/notepad-document-3.svg" alt="Notepad++" width="45" height="45"/>
-        <img src="https://www.svgrepo.com/show/504676/obsidian.svg" alt="Obsidian" width="45" height="45"/>
-        <img src="https://www.svgrepo.com/show/475688/trello-color.svg" alt="Trello" width="45" height="45"/>
-        <img src="https://www.svgrepo.com/show/354352/slack.svg" alt="Slack" width="45" height="45"/>
-        <img src="https://www.svgrepo.com/show/331339/clickup.svg" alt="ClickUp" width="45" height="45"/>
-        <img src="https://www.svgrepo.com/show/353425/asana.svg" alt="Asana" width="45" height="45"/>
-        <img src="https://www.svgrepo.com/show/217793/windows.svg" alt="Windows 7-11" width="45" height="45"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" alt="Linux Mint" width="45" height="45"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" alt="Ubuntu" width="45" height="45"/>
       </td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="postman" width="45" height="45"/>
