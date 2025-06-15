@@ -17,7 +17,7 @@
 - **500k+ Emails Managed**: Built resource-efficient mass communication systems
 
 <div align="right">
-  <a href="https://drive.google.com/file/d/182c4HgrjBbksa53GWmDswzOc2Zv9KcZX">
+  <a href="https://drive.google.com/file/d/1hOsicesm-gh7LihDOrLMGLp0Y2CkUoMX">
     <img src="https://img.shields.io/badge/Download_CV-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/utmost-creator/">
