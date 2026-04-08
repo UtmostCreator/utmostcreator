@@ -31,7 +31,7 @@
 
 ## Current Focus
 
-- Building modern Laravel and Vue platforms with maintainable architecture and dependable delivery flow
+- Building modern PHP and Vue platforms with maintainable architecture and dependable delivery flow
 - Modernizing legacy PHP systems with minimal operational disruption
 - Improving CI/CD, testing discipline, and developer workflow
 
@@ -39,12 +39,12 @@ Open to senior full-stack, platform, and product engineering roles.
 
 ## Impact
 
-| Area | Outcome |
-| --- | --- |
-| Revenue | Helped improve platform capability and synchronization flows that supported growth from GBP 650k to GBP 1M+ |
-| Delivery | Reduced delivery cycle time through modernization of workflows, tooling, and architecture |
-| Reliability | Reduced desync issues in real-time systems through server-authoritative multiplayer architecture |
-| Scale | Built and maintained bulk email and data-processing flows handling 500k+ emails and high-volume workloads |
+| Area        | Outcome                                                                                                     |
+| ----------- | ----------------------------------------------------------------------------------------------------------- |
+| Revenue     | Helped improve platform capability and synchronization flows that supported growth from GBP 650k to GBP 1M+ |
+| Delivery    | Reduced delivery cycle time through modernization of workflows, tooling, and architecture                   |
+| Reliability | Reduced desync issues in real-time systems through server-authoritative multiplayer architecture            |
+| Scale       | Built and maintained bulk email and data-processing flows handling 500k+ emails and high-volume workloads   |
 
 ## Strengths
 
@@ -58,6 +58,17 @@ Open to senior full-stack, platform, and product engineering roles.
 I also maintain a documented macOS development environment covering shell, terminal, Neovim, PHP tooling, and CLI workflow automation.
 
 ## Selected Work
+
+### Rabbie's Tours
+
+**Role:** Senior Web Developer, January 2026 to present  
+**Company:** [Rabbie's](https://rabbies.com/)  
+**Situation:** Product and platform development for a customer-facing travel business with content-rich pages, checkout journeys, and performance-sensitive web workflows.  
+**Task:** Drive senior full-stack delivery across backend, frontend, integrations, and local development workflow improvements.  
+**Action:** Ship production changes across PHP 8.3, MariaDB, Nuxt, Vue 3, Statamic 5, Stripe, Redis, Colima, and Docker, contributing to checkout improvements, APIs, sitemap functionality, and broader platform delivery.  
+**Result:** Help improve maintainability, support reliable commerce flows, and strengthen ongoing modernization of the web platform.
+
+**Stack:** PHP 8.3, MariaDB, JS, Nuxt, Vue 3, Statamic 5, Stripe, Redis, Colima, Docker
 
 ### Accipio
 
