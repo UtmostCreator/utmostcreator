@@ -143,34 +143,38 @@ Git, GitHub Actions, Docker, Linux, CI/CD, Postman, PHPUnit, Cypress, Selenium, 
 ## GitHub Analytics
 
 <p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=utmostcreator&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&title_color=1f6feb&text_color=c9d1d9&icon_color=2f81f7&ring_color=1f6feb&custom_title=GitHub%20Stats"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=utmostcreator&show_icons=true&include_all_commits=true&hide_border=true&theme=default&title_color=0969da&text_color=24292f&icon_color=0969da&ring_color=1f6feb&custom_title=GitHub%20Stats"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api?username=utmostcreator&show_icons=true&include_all_commits=true&hide_border=true&theme=default&title_color=0969da&text_color=24292f&icon_color=0969da&ring_color=1f6feb&custom_title=GitHub%20Stats"
-      alt="GitHub stats"
-    />
-  </picture>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=utmostcreator&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&theme=transparent&title_color=1f6feb&text_color=c9d1d9"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=utmostcreator&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&theme=default&title_color=0969da&text_color=24292f"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=utmostcreator&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&theme=default&title_color=0969da&text_color=24292f"
-      alt="Top languages"
-    />
-  </picture>
+  <img
+    src="https://streak-stats.demolab.com?user=utmostcreator&theme=dark&hide_border=true#gh-dark-mode-only"
+    alt="GitHub streak dark"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=utmostcreator&theme=default&hide_border=true#gh-light-mode-only"
+    alt="GitHub streak light"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=utmostcreator&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&custom_title=GitHub%20Stats#gh-dark-mode-only"
+    alt="GitHub stats dark"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=utmostcreator&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default&custom_title=GitHub%20Stats#gh-light-mode-only"
+    alt="GitHub stats light"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=utmostcreator&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&theme=dark#gh-dark-mode-only"
+    alt="Top languages dark"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=utmostcreator&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&theme=default#gh-light-mode-only"
+    alt="Top languages light"
+  />
 </p>
