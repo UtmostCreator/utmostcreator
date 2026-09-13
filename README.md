@@ -39,6 +39,7 @@
 | **Frontend / IoT**          | Migrated BYND's smart-home SPA from Aurelia to Vue 3 with real-time MQTT and Socket.IO device control                                                                                                                                                                                                                                                                                     |
 | **Product engineering**     | Building Advanced Gym, an offline-first Kotlin Multiplatform training app with shared Compose UI for Android and iOS                                                                                                                                                                                                                                                                      |
 | **Developer tooling · WIP** | Building restsift, repository-aware CLI tooling for code search, context generation, Git inspection, verification, testing and repeatable AI-assisted development                                                                                                                                                                                                                         |
+| **AI observability · WIP**  | Building a provider-neutral AI-agent telemetry and evaluation platform with durable evidence ingestion, validation and quarantine, reproducible run settlement, OpenTelemetry tracing, and cross-harness evaluation workflows                                                                                                                                                            |
 
 ## Selected Work
 
@@ -54,6 +55,21 @@ Production engineering across a **Laravel 12 / Statamic 5 backend, Nuxt 4 / Vue 
 - Contributed to **shared Vue 3 component-library** development within the engineering team, including mega-navigation, banners, Trustpilot reviews, Algolia site search and indexing, hydration fixes, and PHPUnit/Vitest test coverage.
 
 **Stack:** PHP 8.3, Laravel 11-12, Statamic 5-6, GraphQL, MariaDB, Nuxt 4, Vue 3, Algolia, Tailwind CSS, Stripe, Docker, PHPUnit, Vitest
+
+### AI Monitoring - AI observability and evaluation platform (in active development)
+
+Building a provider-neutral platform for capturing, validating, analysing, and reproducibly evaluating AI coding-agent activity.
+
+- Built adapters for **Claude Code, GitHub Copilot, and OpenCode**, normalising activity behind a shared ingestion contract with source-level sensitive-data redaction.
+- Designed a **durable PostgreSQL evidence pipeline** with JSON Schema validation, canonical hashing, idempotent ingestion, quarantine/correction workflows, and immutable settlement records.
+- Implemented **leased background workers and transactional outbox delivery** with crash recovery, bounded retries, dead-letter handling, and rebuildable projections.
+- Integrated **OpenTelemetry and Arize Phoenix** for trace export and analysis, with isolated telemetry routing across sources.
+- Built a **Python evaluation plane** that normalises promptfoo and Inspect/Harbor results into versioned records while PostgreSQL remains the canonical evidence authority.
+- Added reproducible offline fixtures and **unit, integration, schema-contract, and end-to-end tests** for CI.
+
+Telemetry enters a durable candidate inbox, where workers validate, normalise, hash, and atomically adopt or quarantine each event. Accepted evidence drives rebuildable projections, reproducible run settlements, traces, and provider-neutral evaluations.
+
+**Stack:** TypeScript, Node.js, PostgreSQL 16, SQL, Ajv / JSON Schema, Python, OpenTelemetry, Arize Phoenix, promptfoo, Inspect/Harbor, Docker Compose, GitHub Actions, pnpm
 
 ### Accipio - enterprise learning and finance integration
 
